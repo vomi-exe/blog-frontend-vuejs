@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Lorem ipsem dolor sit Lorem Ips dolor sit amet, consectetur adipiscing elit. Etiam placerat pulvinar tortor, in posuere urna convallis et. Mauris elementum augue in malesuada scelerisque. Morbi ultricies felis id est finibus, in faucibus elit imperdiet. Curabitur imperdiet, ligula at feugiat accumsan, ipsum nisi malesuada lacus, eu consequat magna purus sed justo. Sed vitae imperdiet dui. Morbi at lorem lectus. Praesent venenatis nulla purus, vel egestas sapien tincidunt id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean viverra erat lectus. Maecenas dignissConstant",
+            "tags": ["webdev", "coding", "news"]
+        },
+        {
+            "id": 2,
+            "title": "Welcome to the new tp 5 blog",
+            "body": "Lorem ipsem dolor sit Lorem Ips dolor sit amet, consectetur adipiscing elit. Etiam placerat pulvinar tortor, in posuere urna convallis et. Mauris elementum augue in malesuada scelerisque. Morbi ultricies felis id est finibus, in faucibus elit imperdiet. Curabitur imperdiet, ligula at feugiat accumsan, ipsum nisi malesuada lacus, eu consequat magna purus sed justo. Sed vitae imperdiet dui. Morbi at lorem lectus. Praesent venenatis nulla purus, vel egestas sapien tincidunt id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean viverra erat lectus. Maecenas dignissConstant",
+            "tags": ["css", "webdev", "coding"]
+        }
+    ]
+}
